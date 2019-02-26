@@ -10,7 +10,7 @@ This mini-project aims at recieving a video input from the videos of Matt Harvey
 
 ### Techniques used:
 >1. Video breakdown into frames
->2. Single image channel and cropping to reduce processing time of [4K images](https://en.wikipedia.org/wiki/4K_resolution)
+>2. Worked with a single image channel and cropping to reduce processing time of [4K images](https://en.wikipedia.org/wiki/4K_resolution)
 >3. [Gaussian Blur](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html) to denoise
 >4. [Canny edge](https://docs.opencv.org/3.1.0/da/d22/tutorial_py_canny.html) detector and alongwith [dilation and erosion](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html) techniques
 >5. Finding [contours](https://docs.opencv.org/3.4.2/d4/d73/tutorial_py_contours_begin.html) in each frame and the isolating the ball from pitcher after it is released from his hand
