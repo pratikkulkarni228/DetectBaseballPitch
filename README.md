@@ -17,3 +17,5 @@ This mini-project aims at recieving a video input from the videos of Matt Harvey
 >6. Sorting the contours found and returning the frame with a contour area <100 (The obserevd area of the ball/circle)
 
 ![alt text](https://github.com/pratikkulkarni228/DetectBaseballPitch/blob/master/img/frame1.png)
+
+```test```
